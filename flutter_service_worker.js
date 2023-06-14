@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.json": "f0719b0b03b69c6478c6401d22087a5f",
-"assets/AssetManifest.smcbin": "576cefa2b6ec7bab4dea5f6aecff3ef9",
+const RESOURCES = {"assets/AssetManifest.json": "c434813beafec65a264ae7af3b2ee4b4",
+"assets/AssetManifest.smcbin": "d8126bf81e559a602cf18f217ba49187",
 "assets/assets/images/Capture1.PNG": "cfbb1d24b61c1eb71adeb5ecf3d95dd1",
 "assets/assets/images/Capture2.PNG": "7251f1c90efbc3775f923536a802d121",
 "assets/assets/images/Capture3.PNG": "941b2d409c5fc48cfa7734d7461361ff",
@@ -12,14 +12,13 @@ const RESOURCES = {"assets/AssetManifest.json": "f0719b0b03b69c6478c6401d22087a5
 "assets/assets/images/Home.png": "48a3b3e39507a29bd8d6bd015059c75d",
 "assets/assets/images/light.png": "c5e777c2e0b0ec9079fdddb5ec879dcb",
 "assets/assets/images/Login%252001.png": "67968d2b4416b21a5aa89cbde52fdd6a",
-"assets/assets/images/myAnime1.png": "5873c6e443f00692e56f460df83d76d5",
-"assets/assets/images/myAnime2.png": "69da428e464beb1d13cf3e47aa5a17fe",
-"assets/assets/images/myAnime3.png": "3a13cfd0ef6a6f21d58d1768c3f6018c",
-"assets/assets/images/profile.jpg": "bbae5aad17377bf111fb7d06eb0d4694",
 "assets/assets/images/screen1.png": "c6296706c26a52a45adea5e09ddea5f3",
 "assets/assets/images/screen2.png": "f258d47f484bacf98807aa31472cbe0e",
 "assets/assets/images/screen3.png": "c7b0ac7758bc193eca984ef07baf48cd",
 "assets/assets/images/Spash%2520Screen.png": "23b7e69f5d2b595cffbafd379c6d0822",
+"assets/assets/images/view1.png": "5873c6e443f00692e56f460df83d76d5",
+"assets/assets/images/view2.png": "69da428e464beb1d13cf3e47aa5a17fe",
+"assets/assets/images/view3.png": "3a13cfd0ef6a6f21d58d1768c3f6018c",
 "assets/assets/images/vlens1.png": "ec881ec13615908364f8030969978e50",
 "assets/assets/images/vlens2.png": "55826c06a63a47b3cc6a1a90c23c777b",
 "assets/assets/images/vlens3.png": "a4ef2a861f76109333f9a7ac1d245d96",
@@ -44,10 +43,10 @@ const RESOURCES = {"assets/AssetManifest.json": "f0719b0b03b69c6478c6401d22087a5
 "icons/android-chrome-192x192.png": "f67be3463e66deb3225c018f346615ad",
 "icons/android-chrome-512x512.png": "7e7ccb3470b6665af201c4add7d4bb3b",
 "icons/apple-touch-icon.png": "610b3da3d5a9e4fa21746dbb07d67b49",
-"index.html": "589c1c9cc1ce4cae040fdffc191d8ea6",
-"/": "589c1c9cc1ce4cae040fdffc191d8ea6",
+"index.html": "b8a0b4075345fd4dc8c3d9217385d72f",
+"/": "b8a0b4075345fd4dc8c3d9217385d72f",
 "logo.png": "f67be3463e66deb3225c018f346615ad",
-"main.dart.js": "91f6be377a158adda7d716173f35ffa1",
+"main.dart.js": "69b64e85f680a6efb51ccd0b34414727",
 "manifest.json": "e6f73eefe9fd3d1639bd5edde733b0d2",
 "version.json": "9b818ca9511483c901bed1545384376c"};
 // The application shell files that are downloaded before a service worker can
